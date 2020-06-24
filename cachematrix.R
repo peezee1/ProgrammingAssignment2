@@ -2,7 +2,7 @@
 ## functions do
 
 ## Write a short comment describing this function
-#this function creates an object that an cache its inverse
+#this function creates an object that can cache its inverse
 makeCacheMatrix <- function(x = matrix()) {
   makeVector <- function(x = numeric()) {
     m <- NULL
